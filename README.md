@@ -1,0 +1,1 @@
+# Applied_Neural_Network_Manually
